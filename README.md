@@ -1,5 +1,11 @@
 # leetcode-projects
 
-This is a repository which contains my code for Leetcode problems
+Leetcode answers:
+- 90%+
+- C++ and Python
+- hash-maps
+- dynamic-programming
+- linked lists
+- recursion
 
-Leetcode problems can be found here: https://leetcode.com/problemset/all/
+Leetcode link: https://leetcode.com/problemset/all/
